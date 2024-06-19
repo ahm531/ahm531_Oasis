@@ -1,3 +1,4 @@
 nomad-measurements
 nomad-material-processing
 git+https://github.com/FAIRmat-NFDI/nomad-unisyscat-plugin.git@main
+git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@e006e70ef70a98816210cfce74bf5ad2a8eb69bd#subdirectory=transmission/transmission_plugin/uv_vis_nir_transmission_plugin
